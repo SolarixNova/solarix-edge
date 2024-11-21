@@ -1,5 +1,10 @@
 # Solarix: Sistema de Monitoramento de Energia Solar
 
+### **Integrantes do Grupo**
+- Mohamed Afif Smaili RM554445 
+- Heitor Prestes RM 554823
+- Lucca Ribeiro RM 556668
+
 ## **Descrição do Projeto**
 O **Solarix** é um sistema desenvolvido com ESP32 no simulador Wokwi, projetado para monitorar parâmetros relacionados à energia solar, como eficiência, irradiação e luminosidade. O sistema calcula a energia solar gerada e exibe os dados em um display LCD, além de enviá-los via MQTT para o Node-RED, onde podem ser visualizados em um dashboard.
 
